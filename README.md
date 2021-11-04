@@ -1,1 +1,1 @@
-# Doscord_Welcome_Bot
+# Discord-Welcome-Bot
